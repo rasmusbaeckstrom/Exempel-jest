@@ -1,0 +1,17 @@
+{
+  "name": "exempel-jest",
+  "version": "1.0.0",
+  "description": "demo of jest as unit tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Rasmus Bäckström",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
